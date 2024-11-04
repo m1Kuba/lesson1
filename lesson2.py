@@ -69,3 +69,5 @@ def hero_action(hero):
 mage = Mage("Гэндальф", 100, 50)
 
 hero_action(mage)
+
+t = []
